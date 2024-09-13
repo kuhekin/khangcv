@@ -49,12 +49,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             theme-base: theme-base-07 # 可选的主题色包括08~0f，见 <https://github.com/poole/lanyon>
             layout-reverse: true # 开启后sidebar在右边，反之左边
             sidebar-overlay: true # 开启后正文不随sidebar移动而移动
-          html_lang: zh # <https://www.w3school.com.cn/tags/html_ref_language_codes.asp>
+          html_lang: vi # <https://www.w3school.com.cn/tags/html_ref_language_codes.asp>
           sidebar: # 此配置项下是一些关于侧边栏的配置
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
+              img: https://cdn.discordapp.com/attachments/1198300551193034894/1284055055422459966/avatar.png?ex=66e53cf5&is=66e3eb75&hm=8f8a20607fdb1019314b2638ac810bbdab35c059ffa161f15e601eb195aedc50& # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fa-solid fa-home fa-fw"></i> 首页'
                 href: /
